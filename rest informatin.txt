@@ -1,3 +1,6 @@
 hi 
 rest is represntaionl state transfrom
 it is very useful in now a dayas
+
+it is faster in reaponce as compaired to other 
+it used to communication to each other of stand lone application
