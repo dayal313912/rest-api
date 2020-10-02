@@ -1,0 +1,2 @@
+res api can test thrught postman tool and soap ui tool
+for in soap ui tool we can communicate each other
